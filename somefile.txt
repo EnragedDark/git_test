@@ -4,3 +4,6 @@ third
 
 not testing revert
 but testing conflicts
+
+testing revert
+actually testing conflict
